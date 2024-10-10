@@ -1,4 +1,4 @@
-module go_sdk
+module go_sdk1
 
 go 1.20
 
