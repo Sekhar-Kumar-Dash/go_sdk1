@@ -1,4 +1,4 @@
-module go_sdk1
+module github.com/Sekhar-Kumar-Dash/go_sdk1
 
 go 1.20
 
